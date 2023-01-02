@@ -296,7 +296,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> Laravel Core Adventures </a>
+                              <a href="single" class="text-blue-500 hover:underline"> Laravel Core Adventures </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -370,7 +370,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> PEST Driven Laravel </a>
+                              <a href="single" class="text-blue-500 hover:underline"> PEST Driven Laravel </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -450,7 +450,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> Testing Laravel </a>
+                              <a href="single" class="text-blue-500 hover:underline"> Testing Laravel </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -519,7 +519,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> Writing Readable PHP </a>
+                              <a href="single" class="text-blue-500 hover:underline"> Writing Readable PHP </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -600,7 +600,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> Laravel Beyond CRUD </a>
+                              <a href="single" class="text-blue-500 hover:underline"> Laravel Beyond CRUD </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -767,7 +767,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> Eloquent Performance Patterns </a>
+                              <a href="single" class="text-blue-500 hover:underline"> Eloquent Performance Patterns </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -841,7 +841,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> Laravel Package Training </a>
+                              <a href="single" class="text-blue-500 hover:underline"> Laravel Package Training </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -921,7 +921,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> Laravel Actions </a>
+                              <a href="single" class="text-blue-500 hover:underline"> Laravel Actions </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -995,7 +995,7 @@
                         <div class="flex">
                           <div class="flex-1 overflow-flex-wrap">
                             <h2 class="text-xl font-bold text-gray-900 mb-1">
-                              <a href="single.html" class="text-blue-500 hover:underline"> Livewire Performance </a>
+                              <a href="single" class="text-blue-500 hover:underline"> Livewire Performance </a>
                             </h2>
                             <div class="flex items-center gap-3">
                               <div class="flex items-center space-x-px">
@@ -1064,7 +1064,7 @@
                   <nav role="navigation" aria-label="Pagination Navigation" class="flex items-center justify-between">
                     <div class="flex justify-between flex-1 sm:hidden">
                       <span class="relative inline-flex items-center px-4 py-2 text-sm font-medium text-gray-500 bg-white border border-gray-300 cursor-default leading-5 rounded-md"> « Previous </span>
-                      <a href="single.html" class="relative inline-flex items-center px-4 py-2 ml-3 text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150"> Next » </a>
+                      <a href="single" class="relative inline-flex items-center px-4 py-2 ml-3 text-sm font-medium text-gray-700 bg-white border border-gray-300 leading-5 rounded-md hover:text-gray-500 focus:outline-none focus:ring ring-gray-300 focus:border-blue-300 active:bg-gray-100 active:text-gray-700 transition ease-in-out duration-150"> Next » </a>
                     </div>
                     <div class="flex-1 sm:flex sitems-center justify-between">
                       <div>
