@@ -84,12 +84,12 @@
               <h1 class="heading-tertiory text-center mb-10 md:mb-16"> Featured Courses </h1>
               <div class="max-w-7xl w-full inline-flex single-feature gap-10 flex-wrap mx-auto">
                 <div class="bg-white rounded grap-10 overflow-hidden shadow-card">
-                  <a href="single.html">
+                  <a href="single">
                     <img srcset="https://laravel-courses.com/storage/courses/3af6d790-51f4-42cf-89db-26740e1bf353.png 2000w, https://laravel-courses.com/storage/courses/1168288b-5e18-4c67-a489-640a02a46198.png 1200w, https://laravel-courses.com/storage/courses/e8f6ef53-4023-4677-8af9-d28e27f87c4d.png 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 1200px, 2000px" src="https://laravel-courses.com/storage/courses/1168288b-5e18-4c67-a489-640a02a46198.png" alt="PEST Driven Laravel" class="w-full h-auto object-contain">
                   </a>
                   <div class="px-6 pb-5">
                     <div class="mt-7 flex justify-between items-center gap-4 mb-4">
-                      <a href="single.html" class="text-lg-primary w-full hover:underline">PEST Driven Laravel</a>
+                      <a href="single" class="text-lg-primary w-full hover:underline">PEST Driven Laravel</a>
                     </div>
                     <div>
                       <div class="flex items-center mb-2">
@@ -116,12 +116,12 @@
                   </div>
                 </div>
                 <div class="bg-white rounded overflow-hidden shadow-card">
-                  <a href="single.html">
+                  <a href="single">
                     <img srcset="https://laravel-courses.com/storage/courses/4d3d4fca-a33c-40c7-ba2d-4e23db49a0ec.png 2000w, https://laravel-courses.com/storage/courses/fe693edb-b8b8-4aa4-8818-3d9a97f76c9b.png 1200w, https://laravel-courses.com/storage/courses/18909833-0342-4597-b903-c4b017e1760f.png 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 1200px, 2000px" src="https://laravel-courses.com/storage/courses/fe693edb-b8b8-4aa4-8818-3d9a97f76c9b.png" alt="Mastering Laravel Validation Rules" class="w-full h-auto object-contain">
                   </a>
                   <div class="px-6 pb-5">
                     <div class="mt-7 flex justify-between items-center gap-4 mb-4">
-                      <a href="single.html" class="text-lg-primary w-full hover:underline">Mastering Laravel Validation Rules</a>
+                      <a href="single" class="text-lg-primary w-full hover:underline">Mastering Laravel Validation Rules</a>
                     </div>
                     <div>
                       <div class="flex items-center mb-2">
@@ -144,12 +144,12 @@
                   </div>
                 </div>
                 <div class="bg-white rounded overflow-hidden shadow-card">
-                  <a href="single.html">
+                  <a href="single">
                     <img srcset="https://laravel-courses.com/storage/courses/73432585-1a11-4144-8117-0b171506d9b3.png 2000w, https://laravel-courses.com/storage/courses/392a17fb-7b83-4663-a75f-82bcb0a23519.png 1200w, https://laravel-courses.com/storage/courses/c865ccb8-6953-492f-aaa8-01a4c77bd504.png 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 1200px, 2000px" src="https://laravel-courses.com/storage/courses/392a17fb-7b83-4663-a75f-82bcb0a23519.png" alt="Testing Laravel" class="w-full h-auto object-contain">
                   </a>
                   <div class="px-6 pb-5">
                     <div class="mt-7 flex justify-between items-center gap-4 mb-4">
-                      <a href="single.html" class="text-lg-primary w-full hover:underline">Testing Laravel</a>
+                      <a href="single" class="text-lg-primary w-full hover:underline">Testing Laravel</a>
                     </div>
                     <div>
                       <div class="flex items-center mb-2">
@@ -177,12 +177,12 @@
                   </div>
                 </div>
                 <div class="bg-white rounded overflow-hidden shadow-card">
-                  <a href="single.html">
+                  <a href="single">
                     <img srcset="https://laravel-courses.com/storage/courses/09fac06d-eb12-4828-8003-25e0e1c3bdd5.png 2000w, https://laravel-courses.com/storage/courses/c9c5fd6f-1705-410d-bb4b-66cd64a9d5ed.png 1200w, https://laravel-courses.com/storage/courses/2d68add9-163b-48f6-b3d1-88774ab7ed27.png 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 1200px, 2000px" src="https://laravel-courses.com/storage/courses/c9c5fd6f-1705-410d-bb4b-66cd64a9d5ed.png" alt="PHP For Beginners" class="w-full h-auto object-contain">
                   </a>
                   <div class="px-6 pb-5">
                     <div class="mt-7 flex justify-between items-center gap-4 mb-4">
-                      <a href="single.html" class="text-lg-primary w-full hover:underline">PHP For Beginners</a>
+                      <a href="single" class="text-lg-primary w-full hover:underline">PHP For Beginners</a>
                     </div>
                     <div>
                       <div class="flex items-center mb-2">
@@ -209,12 +209,12 @@
                   </div>
                 </div>
                 <div class="bg-white rounded overflow-hidden shadow-card">
-                  <a href="single.html">
+                  <a href="single">
                     <img srcset="https://laravel-courses.com/storage/courses/82ec52d4-7898-4d82-9b72-995ed0fcdb06.png 2000w, https://laravel-courses.com/storage/courses/4f69da91-87df-4bdf-b299-11889167dc72.png 1200w, https://laravel-courses.com/storage/courses/feec4eaf-6de2-41e8-bb82-13b5a9c36ad6.png 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 1200px, 2000px" src="https://laravel-courses.com/storage/courses/4f69da91-87df-4bdf-b299-11889167dc72.png" alt="Writing Readable PHP" class="w-full h-auto object-contain">
                   </a>
                   <div class="px-6 pb-5">
                     <div class="mt-7 flex justify-between items-center gap-4 mb-4">
-                      <a href="single.html" class="text-lg-primary w-full hover:underline">Writing Readable PHP</a>
+                      <a href="single" class="text-lg-primary w-full hover:underline">Writing Readable PHP</a>
                     </div>
                     <div>
                       <div class="flex items-center mb-2">
@@ -242,12 +242,12 @@
                   </div>
                 </div>
                 <div class="bg-white rounded overflow-hidden shadow-card">
-                  <a href="single.html">
+                  <a href="single">
                     <img srcset="https://laravel-courses.com/storage/courses/4960c69f-174b-43d2-a868-d913de6678a9.png 2000w, https://laravel-courses.com/storage/courses/598e2682-0977-496c-b274-29f8101966ea.png 1200w, https://laravel-courses.com/storage/courses/6baba847-ec06-4be5-8967-5f3ab5d42f0e.png 400w" sizes="(max-width: 600px) 400px, (max-width: 1200px) 1200px, 2000px" src="https://laravel-courses.com/storage/courses/598e2682-0977-496c-b274-29f8101966ea.png" alt="Laravel Queues in Action" class="w-full h-auto object-contain">
                   </a>
                   <div class="px-6 pb-5">
                     <div class="mt-7 flex justify-between items-center gap-4 mb-4">
-                      <a href="single.html" class="text-lg-primary w-full hover:underline">Laravel Queues in Action</a>
+                      <a href="single" class="text-lg-primary w-full hover:underline">Laravel Queues in Action</a>
                     </div>
                     <div>
                       <div class="flex items-center mb-2">
